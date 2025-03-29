@@ -1,7 +1,7 @@
 # Python
 Exploring and learning Python 
 
-## Introduction to Python 🐍
+## Introduction to Python
 Python is a powerful, versatile, and easy-to-learn programming language widely used for web development, data analysis, artificial intelligence, scientific computing, and more. This repository contains my learnings and notes on various Python concepts and libraries, structured in a way that makes it easier to reference and revise.
 
 ## 📂 Repository Structure
@@ -51,5 +51,3 @@ My learning on **Pandas DataFrame**, a two-dimensional data structure for effici
 ## 📂 Datasets Used
 You can access the datasets used in this repository from the following Drive link:  
 🔗 **[Download Datasets](https://drive.google.com/drive/folders/1qYPPTepqAwRY3mmA6SD-DcX18a0iCfOM?usp=sharing)**
-
-
